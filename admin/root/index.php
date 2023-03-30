@@ -8,6 +8,9 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hello Long</h1>
+Đây là giao diện admin
+<?php
+include "../menu.php";
+?>
 </body>
 </html>
